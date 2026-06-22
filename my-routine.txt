@@ -1,3 +1,9 @@
 21.06.2026
 1.I read AI advice about internships for DevOps
 2.I started new project from Linux - #3
+
+22.06.2026
+1.I created the main dir - log-directory
+2.created some sub-directories
+3.started step-1
+
